@@ -1,0 +1,1 @@
+Top 3 numeric columns by variance: ['area', 'perimeter', 'texture']

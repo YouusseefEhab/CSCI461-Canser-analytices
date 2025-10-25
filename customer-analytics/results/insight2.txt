@@ -1,0 +1,1 @@
+Top values in diagnosis: {'B': 354, 'M': 210}
